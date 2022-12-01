@@ -1,0 +1,7 @@
+Dataset 1:
+
+Column charts comparing each subject score per student could be really helpful here. We could also use a pie chart to look at preportions of male vs female ratios.
+
+Dataset2:
+
+These could be expressed through column charts or pie charts, showing the preportions of age, income, or gender demographics. Stacked bar graphs might also help demonstrate multiple demographic at once if the dataset were larger.

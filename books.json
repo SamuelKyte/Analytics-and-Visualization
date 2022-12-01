@@ -1,0 +1,36 @@
+[{
+	"title": "Catch-22",
+	"author": "Joseph Heller",
+  "year of publication": "1961",
+  "genre": "War"
+},
+{
+	"title": "The Great Gatsby",
+	"author": 	"F. Scott Fitzgerald",
+  "year of publication": 	"1925",
+  "genre": 	"Historical Fiction"
+},
+{
+	"title": "The Grapes of Wrath",
+	"author": "John Steinbeck",
+  "year of publication": "1939",
+  "genre": "Historical Fiction"
+},
+{
+	"title": "Nineteen Eighty-Four",
+	"author": "George Orwell",
+  "year of publication": "1949",
+  "genre": "Science Fiction"
+},
+{
+	"title": "Ulysses",
+	"author": "James Joyce",
+  "year of publication":"1918",
+  "genre": "Ireland"
+},
+{
+	"title": "Lolita",
+	"author": "Vladimir Nabokov",
+  "year of publication": "1955",
+  "genre": "Russia"
+}]

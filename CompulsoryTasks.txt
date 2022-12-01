@@ -1,0 +1,50 @@
+Compulsory Task 1:
+==================
+Visualizations not found in task breif:
+=======================================
+(got help here: https://boostlabs.com/blog/10-types-of-data-visualization-tools/)
+
+1. Bubble chart: presents relationships and/or distributions. Like a scatter chart, a bubble chart does not use a category axis. Instead, it is plotted with the data sets as X-values, Y-values and Z-values (as bubbles).
+
+2. Bullet graph: helps visually track progress. Uses a single main measure, and then compares that measure to other measures to discover and analyze  deeper meaning and connections.  
+
+3. Marimekko chart (Mekko chart): similar layout to a stacked bar graph. Except, instead of tracking time progression, the X-axis measures another dimension of your data sets. 
+
+Allows comparison of values, measurements of the composition of each value, and analysis of data distribution all at the same time. 
+
+
+
+Compulsory Task 2:
+==================
+Visualisation A
+================
+■  Add lines to connect titles to chart: This could make it clearer to show which section each title pertains to.
+
+
+■ Add values to the sections. I can currently see roughly which values are smaller or larger, but the values would be helpful to the reader.
+
+
+■ Add thicker borders to the sections to seperate sections. If this were printed in B&W the colors would not be clear, so creating a border to the sections would help keep the data clear.
+
+
+Visualisation B
+===============
+■ Increase font size to help readability.
+
+
+■ add values at the top of the columns to better present data
+
+
+■ Retitle. Bagels sold per day or Daily Bagel Sales would be a better descriptor.
+
+
+
+Visualisation C
+===============
+■ X-axis title should be on the bottom (Months)
+
+
+■ 6 months sale should be centered and could be rewritten as Sales in 1st and 2nd Quarters or something more descriptive.
+
+
+■ Legend should have better labels; no underscores, should be capitalized, etc.

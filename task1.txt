@@ -1,0 +1,11 @@
+I'm more of a visual person, so I personally believe almost all situations could benefit from some data visualization.
+
+Scenario 1: Housework/Chores
+
+Lately with roommates, everyone believes they are the one who does the most housework. This breeds frustration, because, as we have different schedules, we never see each other doing the work. 
+
+This situation could benefit from a categorization of chores, recording chores when completed, quality control, graphing this to show the preportions of work done per house mate.
+
+Scenario 2: Bank Account
+
+Often times, whether with credit or debit, our spending habits change and are hard to track. It would be nice if bank accounts have us a chart tracking the spending within the account, or even categorized (bills or entertainment).
